@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## My name is Po :simple_smile:
+#### A full time mechanical engineer by day  , Leanrning to code by night
+#### In pursue to land a job as front-end web developer in near future :bulb:
 <!--
 **eazypau/eazypau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
