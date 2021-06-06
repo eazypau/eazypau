@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Po :simple_smile:
+### My name is Po :smile:
 #### A full time mechanical engineer by day  , Leanrning to code by night
 #### In pursue to land a job as front-end web developer in near future :bulb:
 #### Currently learning the following languages & frameworks:
