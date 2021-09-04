@@ -7,7 +7,7 @@
 - CSS
 - JavaScript
 - Vue.js
-- Bootstrap
+- TypeScript
 - Tailwindcss
 
 <!--
