@@ -9,6 +9,7 @@
 - Vue.js
 - TypeScript
 - Tailwindcss
+- Firebase
 
 <!--
 **eazypau/eazypau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
