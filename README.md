@@ -36,6 +36,14 @@ I'm a front end web developer. Currently focused on building web app using VueJS
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
+### :hourglass_flowing_sand: Currently exploring:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"  title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="php" alt="php" width="40" height="40"/>&nbsp;
+</div>
+
 ---
 
 ### :fire: My Stats :
