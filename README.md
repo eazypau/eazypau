@@ -56,10 +56,6 @@ I'm a front end web developer. Currently focused on building web app using VueJS
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 September 2022 - To: 03 October 2022
-
-Total Time: 24 hrs 16 mins
-
 Liquid       13 hrs 59 mins  ██████████████▒░░░░░░░░░░   57.65 %
 JavaScript   5 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   24.62 %
 TypeScript   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
