@@ -54,4 +54,18 @@ I'm a front end web developer. Currently focused on building web app using VueJS
 ![Po YZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazypau&theme=default&show_icons=true)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 26 September 2022 - To: 03 October 2022
+
+Total Time: 24 hrs 16 mins
+
+Liquid       13 hrs 59 mins  ██████████████▒░░░░░░░░░░   57.65 %
+JavaScript   5 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+TypeScript   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+CSS          1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+JSON         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+```
+
 <!--END_SECTION:waka-->
