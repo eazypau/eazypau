@@ -52,16 +52,3 @@ I'm a front end web developer. Currently focused on building web app using VueJS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazypau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Po YZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazypau&theme=default&show_icons=true)
-
-<!--START_SECTION:waka-->
-
-```text
-Liquid       13 hrs 59 mins  ██████████████▒░░░░░░░░░░   57.65 %
-JavaScript   5 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   24.62 %
-TypeScript   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-CSS          1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-JSON         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-```
-
-<!--END_SECTION:waka-->
