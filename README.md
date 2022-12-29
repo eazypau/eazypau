@@ -8,9 +8,9 @@
     </a>
 </div>
 
-<div id="profileView" align="center">
-    <img src="https://komarev.com/ghpvc/?username=eazypau&style=flat-square&color=blue" alt="profile view"/>
-</div>
+[comment]: <div id="profileView" align="center">
+[comment]:    <img src="https://komarev.com/ghpvc/?username=eazypau&style=flat-square&color=blue" alt="profile view"/>
+[comment]: </div>
 
 ---
 
