@@ -15,7 +15,7 @@
 ---
 
 ### :man_technologist: About Me :
-I'm a front end web developer. Currently focused on building web app using VueJS.
+I'm a front end web developer. Currently focused on building web app using VueJS, React & Shopify Liquid.
 
 ---
 
