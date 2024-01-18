@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b7611f95cb305af8b328bcab0c0827975f0df94d63bb1&rid=giphy.gif&ct=g" alt="image thumbnail" width="250"/>
+   <img src="https://github.com/eazypau/portfolio-nuxt3/blob/master/public/favicon-bw.png" alt="portfolio logo" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -12,14 +12,12 @@
 [comment]:    <img src="https://komarev.com/ghpvc/?username=eazypau&style=flat-square&color=blue" alt="profile view"/>
 [comment]: </div>
 
----
+<div align="center">
 
-### :man_technologist: About Me :
-I'm a front end web developer. Currently focusing on building web app using React, NextJs, Vue, Material UI and Firebase.
+## :man_technologist: About Me :
+I'm a Software Engineer. Currently focusing on building web app using React, NextJs, Vue, Material UI & Firebase and a bit of mobile development using Kotlin.
 
----
-
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -38,17 +36,18 @@ I'm a front end web developer. Currently focusing on building web app using Reac
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 </div>
 
-### :hourglass_flowing_sand: Currently exploring:
+## :hourglass_flowing_sand: Currently exploring:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
 </div>
 
----
+## :fire: My Stats :
+<div align="center">
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=eazypau&layout=compact"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=eazypau&theme=default&show_icons=true"/>
+<div>
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazypau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Po YZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazypau&theme=default&show_icons=true)
+<div>
