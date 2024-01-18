@@ -15,7 +15,7 @@
 <div align="center">
 
 ## :man_technologist: About Me :
-I'm a Software Engineer. Currently focusing on building web app using React, NextJs, Vue, Material UI & Firebase and a bit of mobile development using Kotlin.
+I'm a Software Engineer. Currently focusing on building web app using React, NextJs, Vue, Material UI & Firebase and a bit of mobile app development using Kotlin.
 
 ## :hammer_and_wrench: Languages and Tools :
 
