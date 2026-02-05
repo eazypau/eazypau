@@ -44,10 +44,10 @@ I'm a Software Engineer. Currently focusing on building web app using React, Nex
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
 </div>
 
-## :fire: My Stats :
-<div align="center">
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=eazypau&layout=compact"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=eazypau&theme=default&show_icons=true"/>
-<div>
+[comment]: ## :fire: My Stats :
+[comment]:<div align="center">
+    [comment]:<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=eazypau&layout=compact"/>
+    [comment]:<img align=top src="https://github-readme-stats.vercel.app/api?username=eazypau&theme=default&show_icons=true"/>
+[comment]:<div>
 
 <div>
